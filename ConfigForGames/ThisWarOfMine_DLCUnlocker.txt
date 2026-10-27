@@ -3,7 +3,7 @@
   "patchs": [
     {
       "file_offset": "0x2ACCBF",
-	  "mask_byte": "?? ?? ?? ?? ?? ?? ?? ?? 49 8B 3E 48 8D 0D 0F B8",
+	  "mask_byte": "?? ?? ?? ?? ?? ?? ?? ?? 49 8B 3E 48 8D 0D 0F B8 67 00 49 8B D6 0F B6 F0",
       "restore_byte": "8B D0 48 8B CF FF 53 38",
       "patch_byte": "B8 01 00 00 00 90 90 90"
     }
